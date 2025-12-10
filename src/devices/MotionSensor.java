@@ -1,6 +1,6 @@
-package Devices;
+package devices;
 
-import Interfaces.Controllable;
+import interfaces.Controllable;
 
 /**
  * Represents a motion sensor that detects movement

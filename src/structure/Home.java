@@ -1,6 +1,6 @@
-package Structure;
+package structure;
 
-import Devices.SmartDevice;
+import devices.SmartDevice;
 import exceptions.DeviceNotFoundException;
 
 import java.util.HashMap;

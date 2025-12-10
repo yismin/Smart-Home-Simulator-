@@ -1,8 +1,8 @@
-package Devices;
+package devices;
 
-import Interfaces.Controllable;
-import Interfaces.EnergyConsumer;
-import Interfaces.Schedulable;
+import interfaces.Controllable;
+import interfaces.EnergyConsumer;
+import interfaces.Schedulable;
 import exceptions.InvalidDeviceStateException;
 
 import java.util.HashMap;

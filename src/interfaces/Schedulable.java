@@ -1,4 +1,4 @@
-package Interfaces;
+package interfaces;
 
 /**
  * Interface for devices that can be scheduled

@@ -1,7 +1,7 @@
-package Devices;
+package devices;
 
-import Interfaces.Controllable;
-import Interfaces.EnergyConsumer;
+import interfaces.Controllable;
+import interfaces.EnergyConsumer;
 import exceptions.InvalidDeviceStateException;
 
 /**

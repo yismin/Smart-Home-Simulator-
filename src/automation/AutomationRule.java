@@ -1,4 +1,4 @@
-package Automation;
+package automation;
 
 import java.util.function.BooleanSupplier;
 

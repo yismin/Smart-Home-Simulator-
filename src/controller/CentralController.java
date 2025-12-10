@@ -1,13 +1,13 @@
-package Controller;
+package controller;
 
-import Structure.Home;
-import Structure.Room;
-import Devices.*;
-import Interfaces.EnergyConsumer;
+import structure.Home;
+import structure.Room;
+import devices.*;
+import interfaces.Controllable;  // ← ADD THIS LINE
+import interfaces.EnergyConsumer;
 import exceptions.DeviceNotFoundException;
 
 import java.util.List;
-
 /**
  * Central controller for managing the entire smart home system
  */

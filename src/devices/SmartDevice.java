@@ -1,4 +1,4 @@
-package Devices;
+package devices;
 
 /**
  * Abstract base class for all smart devices in the home automation system.
